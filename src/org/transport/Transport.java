@@ -22,6 +22,7 @@ public class Transport {
 		R.cycle();
 		R.bus();
 		R.car();
+		System.out.println("hai");
 		 
 		Air A = new Air();
 		A.aeroplane();
