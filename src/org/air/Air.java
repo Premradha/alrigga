@@ -5,6 +5,7 @@ public class Air {
 public void aeroplane() {
 		
 		System.out.println("Emirates");
+		System.out.println("Branch B");
 	}
 
 public void helicopter() {
